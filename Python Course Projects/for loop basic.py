@@ -71,4 +71,4 @@ for layer in list:
         f += 'x'
     print (f)
 
-print('im scared')
+print ('im scared')
