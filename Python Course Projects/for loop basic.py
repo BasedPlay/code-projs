@@ -70,4 +70,3 @@ for layer in list:
     for count in range(layer):
         f += 'x'
     print (f)
-#yes
